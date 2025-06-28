@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - KPEMBE M/A JHS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="logo.png" alt="KPEMBE M/A JHS Logo" class="logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="academics.html">Academics</a></li>
+                <li><a href="staff.html">Staff</a></li>
+                <li><a href="news.html">News</a></li>
+                <li class="active"><a href="results.html">Results</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-header">
+        <h1>Student Results Portal</h1>
+    </section>
+
+    <section class="results-content">
+        <div class="results-form">
+            <h2>Check Your Results</h2>
+            <form id="results-search-form">
+                <div class="form-group">
+                    <label for="student-name">Full Name:</label>
+                    <input type="text" id="student-name" placeholder="Alidu Abdul-Aziz" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-class">Class:</label>
+                    <select id="student-class" required>
+                        <option value="">Select Class</option>
+                        <option value="JHS1">JHS 1</option>
+                        <option value="JHS2">JHS 2</option>
+                        <option value="JHS3">JHS 3</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="dob">Date of Birth (DD/MM/YYYY):</label>
+                    <input type="text" id="dob" placeholder="e.g. 15/05/2010" required>
+                </div>
+                <button type="submit" class="btn">Check Results</button>
+            </form>
+        </div>
+        
+        <div class="results-display" id="results-display">
+            <!-- Results will be displayed here after search -->
+            <div class="initial-message">
+                <p>Enter your details to view your examination results.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 KPEMBE M/A Junior High School. All rights reserved.</p>
+    </footer>
+
+    <script src="main.js"></script>
+    <script src="results.js"></script>
+</body>
+</html>
