@@ -4,18 +4,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Sample news data - replace with actual news items
     const newsData = [
         {
-            "title": "School intoduces a new headmaster",
+            "title": "School introduces a new headmaster",
             "date": "15/06/2025",
             "category": "achievements",
             "content": "Our school has got a new head",
-            "image": "assets/news/new.jpg"
+            "image": "head.jpg"
         },
         {
             "title": "Cultural Day Celebration",
             "date": "05/06/2025",
             "category": "events",
             "content": "The school celebrated its annual Cultural Day with performances showcasing the rich traditions of the various ethnic groups in Ghana.",
-            "image": "assets/news/culture.jpg"
+            "image": "english.jpg"
         },
         // Add more news items
     ];
