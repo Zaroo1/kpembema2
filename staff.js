@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const staffData = [
         {
             "name": "MEET OUT DEDICATED AND HARDWORKING STAFF", "position": "Number of Teachers",
-            "subjects": ["Nine(9)"],
+            "subjects": ["Eleven(11)"],
             "phone": "+233 Loading...",
             "email": "kpembemajhs441@gmail.com",//
             "bio": "Education and Culture for Development",
