@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // No bio for this one
         },
         {
-            "name": "Alhaji Abubakari Wahab (Headteacher)",
+            "name": "Mr. Alhaji Abubakari Wahab (Headteacher)",
             "phone": "Loading...",
             "photo": "head.jpg",
             "bio": "Dedicated headteacher with a focus on academic excellence and discipline. Has been serving in the school since 2024!"
