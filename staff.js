@@ -13,13 +13,13 @@ document.addEventListener('DOMContentLoaded', function() {
             "name": "Alhaji Abubakari Wahab (Headteacher)",
             "phone": "Loading...",
             "photo": "head.jpg",
-            "bio": "Dedicated headteacher with a focus on academic excellence and discipline."
+            "bio": "Dedicated headteacher with a focus on academic excellence and discipline. Has been serving in the school since 2024!"
         },
         {
             "name": "Sulemana Zakaria: Core Mathematics",
             "phone": "Loading...",
             "photo": "zak.jpg",
-            "bio": "Experienced mathematics teacher known for making complex topics easy to understand."
+            "bio": "Experienced mathematics teacher known for making complex topics easy to understand. Has been serving in the school since 2016!"
         },
         {
             "name": "Bukari Mohammed Shaibu(BMS): Integrated Science",
