@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Staff data - name, phone, photo, and optional bio
     const staffData = [
         {
-            "name": "MEET OUT DEDICATED AND HARDWORKING STAFF",
+            "name": "MEET OUR DEDICATED AND HARDWORKING STAFF",
             "phone": "kpembemajhs441@gmail.com",
             "photo": "staff.jpg"
             // No bio for this one
