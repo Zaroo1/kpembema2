@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
         
-        tableHTML += `</table><p class="note">Note: This is a sample timetable. Actual timetable may vary.</p>`;
+        tableHTML += `</table><p class="note">Note: Timetable might not always be followed strictly</p>`;
         timetableView.innerHTML = tableHTML;
     }
     
