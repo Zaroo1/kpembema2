@@ -1,7 +1,7 @@
 // Academics page specific JavaScript
 
 document.addEventListener('DOMContentLoaded', function() {
-    // Timetable data for JHS1, JHS2, and JHS3 (based on JH7, JH8, JH9 adjusted)
+    // Timetable data for JHS1, JHS2, and JHS3 
     const timetableData = {
         "JHS1": [
             {"day": "Monday", "periods": [
